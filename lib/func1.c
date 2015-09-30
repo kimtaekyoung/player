@@ -3,5 +3,4 @@
 foo1()
 {
 	printf("My name is ");
-	printf("!!!!!!!!!!!!!!!!");
 }
