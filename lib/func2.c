@@ -2,5 +2,10 @@
 
 foo2()
 {
-	printf("Yu Jeong Jang!~~~ \n");
+<<<<<<< HEAD
+	printf("Yu Jeong Jang! \n");
+=======
+	printf("Yu Jeong Jang!.... \n");
+	printf("Hi!! >,<");
+>>>>>>> bug456
 }
