@@ -5,5 +5,5 @@ int main(void)
 {
 	foo1();
 	foo2();
-	printf("hello");
+	printf("hello world!!");
 }
